@@ -11,8 +11,8 @@ You need to make first.
 
 In terminal, you can use this command :
 
-other : <trace>
+other : your_trace
 
-compare_F_A : <trace> / number of FM hash_table / interval
-CM_all : <trace> / number of hash function / number of entry / threshold
-CM_interval: <trace> / number of hash function / number of entry / threshold / interval
+compare_F_A : your_trace / number of FM hash_table / interval
+CM_all : your_trace / number of hash function / number of entry / threshold
+CM_interval: your_trace / number of hash function / number of entry / threshold / interval
