@@ -14,5 +14,7 @@ In terminal, you can use this command :
 other : your_trace
 
 compare_F_A : your_trace / number of FM hash_table / interval
+
 CM_all : your_trace / number of hash function / number of entry / threshold
+
 CM_interval: your_trace / number of hash function / number of entry / threshold / interval
