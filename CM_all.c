@@ -10,7 +10,7 @@
 #include "header/countmin.h"
 #include "header/link_list_counting.h"
 
-#define seed 123456789
+#define seed 1234567890
 
 CM_type *cm;
 IPnode *ip_table[10000];
